@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../LANDING PAGE"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TEMPERATURE CONVERTER"
+	}
+}
